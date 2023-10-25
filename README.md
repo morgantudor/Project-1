@@ -25,7 +25,7 @@ Creators: Leah LoSchiavo & Morgan Tudor
 
 Amazon Data: https://www.kaggle.com/datasets/dgoenrique/amazon-prime-movies-and-tv-shows
 
-Netflix Data: 
+Netflix Data: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 Average Salary Data: https://www.forbes.com/advisor/business/average-salary-by-state/
 
@@ -39,7 +39,7 @@ This project utilizes data found on Kaggle, pulled in and cleaned up using Panda
 
 
 ## Contact
-If there are any questions of concerns, I can be reached at:
+If there are any questions or concerns, I can be reached at:
 ##### [github: morgantudor](https://github.com/morgantudor)
 ##### [email: morgantudor32@gmail.com](mailto:morgantudor32@gmail.com)
 
