@@ -1,6 +1,4 @@
 # To Stream or Not to Stream?
--Website: [website](morgantudor32@gmail.com)
-
 
 ## Description
 An analysis of popular streaming services to conclude which service is "best". Here, we compare Amazon Prime Video and Netflix in multiple ways: by overall rating, parental guidance rating, type of content, release year, and more. In the end, we compare subscription prices, reputation, and content offering to pick our winner.
