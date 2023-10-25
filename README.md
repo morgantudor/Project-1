@@ -27,6 +27,8 @@ Amazon Data: https://www.kaggle.com/datasets/dgoenrique/amazon-prime-movies-and-
 
 Netflix Data: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
+Rotten Tomatoes Data: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset
+
 Average Salary Data: https://www.forbes.com/advisor/business/average-salary-by-state/
 
 Slidedeck Theme: https://www.slidescarnival.com/
